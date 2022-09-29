@@ -109,4 +109,4 @@ flights %>%
 
 ![](HW1_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
-### There is no clear pattern. But as the delay time increases, especially after 50min, the proportion of cancelled flights increases.
+### There is no clear pattern, most of them are centered around zero. But as the delay time increases, especially after 50min, the proportion of cancelled flights increases a bit.
